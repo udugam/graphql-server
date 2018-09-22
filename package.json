@@ -1,0 +1,22 @@
+{
+  "name": "graphql-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/udugam/graphql-server.git"
+  },
+  "author": "Ryan Udugampola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/udugam/graphql-server/issues"
+  },
+  "homepage": "https://github.com/udugam/graphql-server#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.16.2"
+  }
+}
